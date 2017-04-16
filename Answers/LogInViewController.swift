@@ -31,7 +31,7 @@ class LogInViewController: UIViewController {
             
             let email = nametext.text
             let password = passwordtext.text
-            
+             
             
             
             FIRAuth.auth()?.createUser(withEmail: email!, password: password!, completion: { (user: FIRUser?, error) in
