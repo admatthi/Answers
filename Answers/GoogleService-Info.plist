@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>667053188868-iibv37jag7r0d4v0vc4elra3u1bo0hhh.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.667053188868-iibv37jag7r0d4v0vc4elra3u1bo0hhh</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAsKyiebkmvNP9XtGD3aOSFa5faHBfDcYM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>667053188868</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.aatech.Answers</string>
+	<key>PROJECT_ID</key>
+	<string>answers-10744</string>
+	<key>STORAGE_BUCKET</key>
+	<string>answers-10744.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:667053188868:ios:23a17fbaed3a47ec</string>
+	<key>DATABASE_URL</key>
+	<string>https://answers-10744.firebaseio.com</string>
+</dict>
+</plist>

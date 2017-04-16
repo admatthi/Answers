@@ -1,0 +1,6 @@
+framework module Pods_Answers {
+  umbrella header "Pods-Answers-umbrella.h"
+
+  export *
+  module * { export * }
+}
